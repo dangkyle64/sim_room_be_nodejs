@@ -1,0 +1,3 @@
+start easy with getting basic backend frontend first 
+
+create model for furniture and room 
